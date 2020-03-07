@@ -91,7 +91,7 @@ p {
     color: #ffffff;
 }
 
-
+/* condensed classes because of redundancies under h3*/
 h3{
     margin-bottom: 10px;
     text-align: center;
@@ -155,17 +155,8 @@ h3{
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+/*Condensed classes under h2 due to redundancies*/
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
